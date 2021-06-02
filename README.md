@@ -1,5 +1,5 @@
 # Streamlit-webrtc-ai-assistant
-This is a simple ai assistant for car drivers to tell about traffic light and other stuffs. You can deploy this project on cloud and then can access from web browser. 
+This is a simple ai assistant for car drivers to tell about traffic light and other stuffs. You can deploy this project on cloud and then can access from web browser.  Download resnet50 image classifictaion model from this link and place it on this the main folder https://drive.google.com/file/d/15h92yacbwYQ0c1YeR63PSpKOPnQ5klu6/view?usp=sharing
 
 
 
@@ -17,5 +17,4 @@ This is a simple ai assistant for car drivers to tell about traffic light and ot
 1. It is watching traffic light all the time from phone camera, and if car is moving while traffic ligh is red then it will wanrn the driver by voice message.
 2. It have a chat bot, so you can talk to the ai assistant. (customizable chatbot)
 3. You can ask the ai assistant what he see on his camera, then he will reply.
-
 
